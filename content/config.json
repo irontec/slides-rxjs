@@ -36,38 +36,44 @@
     [
       "03-observable/01.md",
       "03-observable/02.md",
-      "03-observable/03.md"
+      "03-observable/03.md",
+      "03-observable/04.md",
+      "03-observable/05.md",
+      "03-observable/06.md",
+      "03-observable/07.md",
+      "03-observable/08.md"
     ],
     [
       "04-observer/01.md",
-      "04-observer/02.md",
-      "04-observer/03.md",
-      "04-observer/04.md"
+      "04-observer/02.md"      
     ],
     [
       "05-subscription/01.md",
-      "05-subscription/02.md",
-      "05-subscription/03.md",
-      "05-subscription/04.md"
+      "05-subscription/02.md"
     ],
     [
       "06-operators/01.md",
       "06-operators/02.md",
+      "06-operators/02.sample.md",
       "06-operators/03.md",
-      "06-operators/04.md"
+      "06-operators/03.sample.md",
+      "06-operators/04.md",
+      "06-operators/04.sample.md",
+      "06-operators/05.md",
+      "06-operators/05.sample.md",
+      "06-operators/06.md",
+      "06-operators/06.sample.md",
+      "06-operators/07.md",
+      "06-operators/07.sample.md",
+      "06-operators/08.md",
+      "06-operators/08.sample.md",
+      "06-operators/09.md"
     ],
     [
       "07-subject/01.md",
       "07-subject/02.md",
-      "07-subject/03.md",
-      "07-subject/04.md"
+      "07-subject/03.md"
     ],
-    [
-      "08-schedulers/01.md",
-      "08-schedulers/02.md",
-      "08-schedulers/03.md",
-      "08-schedulers/04.md"
-    ],
-    "end.html"
+    "end.md"
   ]
 }
