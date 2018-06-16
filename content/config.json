@@ -1,0 +1,73 @@
+{
+  "title": "Introducción a RxJS",
+  "options": {
+    "controls": true,
+    "progress": true,
+    "history": true,
+    "center": true,
+    "slideNumber": false,
+    "touch": true,
+    "hideAddressBar": true,
+    "mouseWheel": true
+  },
+  "slides": [
+    {"path": "index.md", "attrs": {"class":"intro"}},
+    [
+        "01-intro/01.md",
+        "01-intro/02.md",
+        "01-intro/03.md",
+        "01-intro/04.md",
+        "01-intro/05.md",
+        "01-intro/06.md",
+        "01-intro/07.md",
+        "01-intro/08.md",
+        "01-intro/09.md"
+
+    ],
+    [
+      "02-promises/01.md",
+      "02-promises/02.md",
+      "02-promises/03.md",
+      "02-promises/04.md",
+      "02-promises/05.md",
+      "02-promises/06.md",
+      "02-promises/07.md"
+    ],
+    [
+      "03-observable/01.md",
+      "03-observable/02.md",
+      "03-observable/03.md"
+    ],
+    [
+      "04-observer/01.md",
+      "04-observer/02.md",
+      "04-observer/03.md",
+      "04-observer/04.md"
+    ],
+    [
+      "05-subscription/01.md",
+      "05-subscription/02.md",
+      "05-subscription/03.md",
+      "05-subscription/04.md"
+    ],
+    [
+      "06-operators/01.md",
+      "06-operators/02.md",
+      "06-operators/03.md",
+      "06-operators/04.md"
+    ],
+    [
+      "07-subject/01.md",
+      "07-subject/02.md",
+      "07-subject/03.md",
+      "07-subject/04.md"
+    ],
+    [
+      "08-schedulers/01.md",
+      "08-schedulers/02.md",
+      "08-schedulers/03.md",
+      "08-schedulers/04.md"
+    ],
+    "end.html"
+  ]
+}
