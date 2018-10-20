@@ -1,10 +1,10 @@
 # Revel.js webpack starter
 
-A simple 
+A simple
 
 ## Usage
 
-Clone this proyect and change the **./content** directory: 
+Clone this proyect and change the **./content** directory:
 
 * Edit _config.json_
 
@@ -65,7 +65,7 @@ Will create a build on _./dist/_.
 * Support for more plugins
 * ¿Support for custom themes?
 * ¿Auto publish on github/gitlab pages?
-* ¿generate a SEO friendly dist? 
+* ¿generate a SEO friendly dist?
 
 
 
