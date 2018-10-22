@@ -7,3 +7,4 @@
 - Mucho cuidado con dejar subscripciones sin desuscribir cuando dejamos de usar un componente.
   - Memory leaks!
 
+  
