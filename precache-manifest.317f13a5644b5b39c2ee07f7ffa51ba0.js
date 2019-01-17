@@ -24,12 +24,12 @@ self.__precacheManifest = [
     "url": "95c7b5a26ab51d96ee39f36c66005d67.svg"
   },
   {
-    "revision": "8a63aaf795c65b9a001dfc6bf7387293",
-    "url": "66cec3167484d42c1ccc513c6259a4f8.svg"
-  },
-  {
     "revision": "5d039d9f3408836ef24841905f04b69b",
     "url": "1ba934df20c60bfbda92ae00e4ac1b37.svg"
+  },
+  {
+    "revision": "8a63aaf795c65b9a001dfc6bf7387293",
+    "url": "66cec3167484d42c1ccc513c6259a4f8.svg"
   },
   {
     "revision": "43b843880f019c3bdf2a047b201961a7",
@@ -40,13 +40,13 @@ self.__precacheManifest = [
     "url": "a0296bb86117cab30ef27fd515a87f79.svg"
   },
   {
+    "url": "fc84e998bc29b297ea20321e4c90b6ed.ttf"
+  },
+  {
     "url": "3e1af3ef546b9e6ecef9f3ba197bf7d2.ttf"
   },
   {
     "url": "89e2666c24d37055bcb60e9d2d9f7e35.ttf"
-  },
-  {
-    "url": "fc84e998bc29b297ea20321e4c90b6ed.ttf"
   },
   {
     "url": "ec4c9962ba54eb91787aa93d361c10a8.ttf"
@@ -55,10 +55,10 @@ self.__precacheManifest = [
     "url": "ee7b96fa85d8fdb8c126409326ac2d2b.ttf"
   },
   {
-    "url": "42bbe4eefcde1297b11dc4b6491e9746.ttf"
+    "url": "d1efcd4d126837fe0dcf9b6cf3a00d64.ttf"
   },
   {
-    "url": "d1efcd4d126837fe0dcf9b6cf3a00d64.ttf"
+    "url": "42bbe4eefcde1297b11dc4b6491e9746.ttf"
   },
   {
     "url": "0fc25386220a58203994ce45fb4ae570.ttf"
