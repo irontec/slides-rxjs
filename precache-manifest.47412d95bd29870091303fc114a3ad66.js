@@ -49,10 +49,10 @@ self.__precacheManifest = [
     "url": "fc84e998bc29b297ea20321e4c90b6ed.ttf"
   },
   {
-    "url": "ee7b96fa85d8fdb8c126409326ac2d2b.ttf"
+    "url": "ec4c9962ba54eb91787aa93d361c10a8.ttf"
   },
   {
-    "url": "ec4c9962ba54eb91787aa93d361c10a8.ttf"
+    "url": "ee7b96fa85d8fdb8c126409326ac2d2b.ttf"
   },
   {
     "url": "42bbe4eefcde1297b11dc4b6491e9746.ttf"
@@ -85,7 +85,7 @@ self.__precacheManifest = [
     "url": "media/logo_irontec.png"
   },
   {
-    "revision": "d57a62ab74bf453a7559b48ec201a9d9",
+    "revision": "327a7543343c9fba60007f47df390142",
     "url": "index.html"
   },
   {
