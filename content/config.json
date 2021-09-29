@@ -1,5 +1,7 @@
 {
   "title": "Introducción a RxJS",
+  "og_url": "https://irontec.github.io/slides-rxjs/",
+  "og_image": "https://irontec.github.io/slides-rxjs/media/images/logo.png",
   "options": {
     "controls": true,
     "progress": true,
@@ -15,7 +17,8 @@
     "zoom":   true,
     "menu":   true,
     "notes":  true,
-    "highlightjs": true
+    "highlightjs": true,
+    "ga": "UA-130231733-4"
   },
   "serviceWorker": true,
   "slides": [
